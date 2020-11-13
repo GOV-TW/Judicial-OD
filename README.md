@@ -4,7 +4,7 @@
 
 - 國發會開放資料平台: https://data.gov.tw/datasets/search?qs=dtid:748
 - 司法院每個月打包一次壓縮檔（更新至兩個月前）: http://data.judicial.gov.tw/
-- 司法院每日更新（只保留最新兩個月）: https://drive.google.com/drive/folders/1utp8bQLhIOsq1Bo-rUBVgkWj_3M_UQw8?usp=sharing
+- 司法院每日更新（只保留最新兩個月）: https://bit.ly/judicial-od-jd
 
 # 司法院裁判書開放資料 API
 - https://data.gov.tw/dataset/63205
