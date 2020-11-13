@@ -2,8 +2,9 @@
 
 司法院從 2017 開始推動開放資料，目前資料主要是以國發會開放資料平台為發布平台。同時提供兩支 API 來提供使用者下載七日前裁判書異動清單，和依照裁判書 JID 來取得裁判書內容開放資料。
 
-- 國發會開放資料平台 : https://data.gov.tw/datasets/search?qs=dtid:748
-- 司法院每日更新 2017.11.25 至今 : http://bit.ly/judicial-od-jid /JD/2017.11 - 2018.04
+- 國發會開放資料平台: https://data.gov.tw/datasets/search?qs=dtid:748
+- 司法院每個月打包一次壓縮檔（更新至兩個月前）: http://data.judicial.gov.tw/
+- 司法院每日更新（只保留最新兩個月）: https://drive.google.com/drive/folders/1utp8bQLhIOsq1Bo-rUBVgkWj_3M_UQw8?usp=sharing
 
 # 司法院裁判書開放資料 API
 - https://data.gov.tw/dataset/63205
